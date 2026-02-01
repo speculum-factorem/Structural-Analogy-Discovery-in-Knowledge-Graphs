@@ -64,7 +64,7 @@ SAGAM/
 
 ```bash
 # Клонирование репозитория
-git clone <repository-url>
+git clone https://github.com/speculum-factorem/Structural-Analogy-Discovery-in-Knowledge-Graphs.git
 cd SAGAM
 
 # Сборка проекта
